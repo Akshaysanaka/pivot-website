@@ -1,4 +1,11 @@
 {
-  "name": "pivot-website2",
-  "compatibility_date": "2026-07-01"
+  "name": "pivot-website3",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-07-01",
+  "assets": {
+    "directory": ".open-next/assets"
+  },
+  "observability": {
+    "enabled": true
+  }
 }
